@@ -1,0 +1,2 @@
+Instructions:
+ All the compilation code is in one make file. The programs can be executed by running ./(fileName)
